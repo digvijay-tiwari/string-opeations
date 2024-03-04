@@ -2,7 +2,7 @@ Questions related to string operations in programming interviews can vary widely
 
 <b>Reverse a String:</b> Write a function to reverse a given string. For example, given "hello", return "olleh".
 
-Check Palindrome: Write a function to determine whether a given string is a palindrome. For example, "radar" and "level" are palindromes.
+<b>Check Palindrome:</b> Write a function to determine whether a given string is a palindrome. For example, "radar" and "level" are palindromes.
 
 Anagram Detection: Write a function to check if two strings are anagrams of each other. For example, "listen" and "silent" are anagrams.
 
