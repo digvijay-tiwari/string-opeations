@@ -1,6 +1,6 @@
 Questions related to string operations in programming interviews can vary widely in complexity and focus. Here are several examples of implementation questions related to string operations that may be asked:
 
-Reverse a String: Write a function to reverse a given string. For example, given "hello", return "olleh".
+<b>Reverse a String:</b> Write a function to reverse a given string. For example, given "hello", return "olleh".
 
 Check Palindrome: Write a function to determine whether a given string is a palindrome. For example, "radar" and "level" are palindromes.
 
